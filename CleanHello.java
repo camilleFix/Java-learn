@@ -1,9 +1,4 @@
-package hello;
-
-/**Ceci est une implémentation du message traditionnel "Hello world!"
- * @author Camille
- */
-
+/**
 public class CleanHello {
 
    /**Le programme commence ici*/
@@ -35,4 +30,4 @@ public class CleanHello {
                 System.out.println(array[i]);
             }
         }
-    }
+    /** }
