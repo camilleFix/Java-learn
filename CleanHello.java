@@ -1,5 +1,5 @@
 /**
-public class CleanHello {
+public class CleanHello { */
 
    /**Le programme commence ici*/
     public static void main(String[] args) {
@@ -30,4 +30,4 @@ public class CleanHello {
                 System.out.println(array[i]);
             }
         }
-    /** }
+    /** }*/
